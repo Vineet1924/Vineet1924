@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vineet1924/Vineet1924/blob/main/github%20banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet1924&label=Profile%20views&color=0e75b6&style=flat" alt="vineet1924" /> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 - 📫 How to reach me **jvineet64@gmail.com**
 
 - ⚡ Fun fact **I am inspired from Arrow🏹**
@@ -17,7 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet1924&show_icons=true&locale=en&layout=compact" alt="vineet1924" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet1924&show_icons=true&locale=en" alt="vineet1924" /></p>
+<p><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet1924&show_icons=true&locale=en" alt="vineet1924" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet1924&" alt="vineet1924" /></p>
 
