@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying in Dharmsinh Desai University.
+I'm recently passed out from Dharmsinh Desai University
 
 
 ## 🌐 Socials:
